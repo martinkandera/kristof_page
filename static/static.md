@@ -1,0 +1,1 @@
+tu budú všetky `.css` + `.js` súbory (každý v `/css` a `/js` podsúbore + `/img` na fotky)
